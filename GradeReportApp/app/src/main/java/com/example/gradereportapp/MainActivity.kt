@@ -51,9 +51,7 @@ class MainActivity : AppCompatActivity() {
             Triple("Economics", 55.0, 100.0)
         )
 
-        // Clear existing rows except header (rows are index 0 is header)
-        // Note: activity_main.xml already has them, but we manage them via subjectList for logic
-        // We'll clear the table and rebuild to ensure consistency
+        
         val header = binding.gradeTable.getChildAt(0)
         binding.gradeTable.removeAllViews()
         binding.gradeTable.addView(header)
@@ -134,9 +132,6 @@ class MainActivity : AppCompatActivity() {
         row.addView(totalText)
         row.addView(gradeText)
 
-        // Add before the summary row if possible, or just append
-        // Our XML has the summary row at the end. When we rebuilt, we didn't add the summary row back yet.
-        // We will manage summary row separately or keep it at the end.
         binding.gradeTable.addView(row)
     }
 
@@ -167,8 +162,7 @@ class MainActivity : AppCompatActivity() {
              binding.gradeTable.removeView(lastView)
         }
         
-        // Find if summary row exists in XML or by tag
-        // Since we reconstructed, we need to add it back
+     
         val summaryRow = TableRow(this)
         summaryRow.setBackgroundColor(Color.parseColor("#E1F5FE"))
         summaryRow.setPadding(0, 12, 0, 12)
