@@ -74,9 +74,6 @@ class PhotoAdapter(
 
     fun addPhoto(photo: Photo) {
         photos.add(0, photo)
-        // Re-apply filter to update filteredPhotos
-        // For simplicity, we can just show all or keep current filter logic
-        // But here I'll just refresh the view
         filteredPhotos.add(0, photo)
         notifyDataSetChanged()
     }
