@@ -14,7 +14,7 @@ import java.util.Locale
 
 class MainActivity : AppCompatActivity() {
 
-    private var stepsCount = 5432
+    private var stepsCount = 5000
     private val dailyGoal = 10000
 
     private lateinit var stepsValue: TextView
