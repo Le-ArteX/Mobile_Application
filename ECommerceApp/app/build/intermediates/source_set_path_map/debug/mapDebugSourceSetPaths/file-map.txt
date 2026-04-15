@@ -1,0 +1,34 @@
+com.example.ecommerceapp-lifecycle-livedata-core-2.6.2-0 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\03974c5431aaabe30a028e67a2cd5c62\workspace\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.ecommerceapp-transition-1.5.0-1 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\07e2a5b796b001e9b8fceb60b1a935ef\workspace\transformed\transition-1.5.0\res
+com.example.ecommerceapp-startup-runtime-1.1.1-2 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0c201ff1d2a9c5bc10e244e1669077ea\workspace\transformed\startup-runtime-1.1.1\res
+com.example.ecommerceapp-cardview-1.0.0-3 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\25a3b9750771ff52c76af199cf8faaf8\workspace\transformed\cardview-1.0.0\res
+com.example.ecommerceapp-core-ktx-1.13.1-4 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\330ccba945e35663e4137b558fdc1757\workspace\transformed\core-ktx-1.13.1\res
+com.example.ecommerceapp-core-1.13.1-5 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\res
+com.example.ecommerceapp-constraintlayout-2.2.0-6 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\430aa54e7f405c55a7a25209f6004057\workspace\transformed\constraintlayout-2.2.0\res
+com.example.ecommerceapp-drawerlayout-1.1.1-7 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\4b801e5c447bbd4f1d885b88dc0c0f64\workspace\transformed\drawerlayout-1.1.1\res
+com.example.ecommerceapp-lifecycle-viewmodel-savedstate-2.6.2-8 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5505ead5a91699b30cf58f156409909b\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.ecommerceapp-fragment-1.5.4-9 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5a95c184ec1cbfc3783fc6ca1308819e\workspace\transformed\fragment-1.5.4\res
+com.example.ecommerceapp-lifecycle-process-2.6.2-10 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\res
+com.example.ecommerceapp-activity-1.9.3-11 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\6ee255ca0b66751dcffae11321ec91ef\workspace\transformed\activity-1.9.3\res
+com.example.ecommerceapp-appcompat-1.7.0-12 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7123bc9450c9172074d0e743c5a3c2e2\workspace\transformed\appcompat-1.7.0\res
+com.example.ecommerceapp-lifecycle-runtime-2.6.2-13 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\73a37a8435815151cc2a0e05a19a5a1b\workspace\transformed\lifecycle-runtime-2.6.2\res
+com.example.ecommerceapp-appcompat-resources-1.7.0-14 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\76ca1c2f16eba8b44f420bb1dcfccb57\workspace\transformed\appcompat-resources-1.7.0\res
+com.example.ecommerceapp-emoji2-1.3.0-15 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\res
+com.example.ecommerceapp-emoji2-views-helper-1.3.0-16 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\80a9390e6f0dedd53594c905b9fa1257\workspace\transformed\emoji2-views-helper-1.3.0\res
+com.example.ecommerceapp-lifecycle-livedata-2.6.2-17 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\8e99eb78fbeed5e0c90d11681361383b\workspace\transformed\lifecycle-livedata-2.6.2\res
+com.example.ecommerceapp-annotation-experimental-1.4.0-18 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\946f45c226424b301b6ae85b8d5d73f8\workspace\transformed\annotation-experimental-1.4.0\res
+com.example.ecommerceapp-viewpager2-1.0.0-19 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\a286fba40abe0c6a21aaaf89d5f88dc0\workspace\transformed\viewpager2-1.0.0\res
+com.example.ecommerceapp-material-1.12.0-20 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b2feed2e05efa92231439ff4e246e7d6\workspace\transformed\material-1.12.0\res
+com.example.ecommerceapp-savedstate-1.2.1-21 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c43c3aed1c6dd6ac0bb4315b73ad0ec9\workspace\transformed\savedstate-1.2.1\res
+com.example.ecommerceapp-coordinatorlayout-1.1.0-22 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\cb9b9e584bdd95177be169f46777e9ef\workspace\transformed\coordinatorlayout-1.1.0\res
+com.example.ecommerceapp-core-runtime-2.2.0-23 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\d1b1f5a5b05019d1f7a9a3fb7adabdeb\workspace\transformed\core-runtime-2.2.0\res
+com.example.ecommerceapp-profileinstaller-1.4.0-24 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\res
+com.example.ecommerceapp-recyclerview-1.1.0-25 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e83a001bb50b37d57a403657634cd4d6\workspace\transformed\recyclerview-1.1.0\res
+com.example.ecommerceapp-lifecycle-viewmodel-2.6.2-26 C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\f2857d54c033bb68a0f9edf8254b4481\workspace\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.ecommerceapp-pngs-27 D:\Spring 25-26\LAB\ECommerceApp\app\build\generated\res\pngs\debug
+com.example.ecommerceapp-resValues-28 D:\Spring 25-26\LAB\ECommerceApp\app\build\generated\res\resValues\debug
+com.example.ecommerceapp-packageDebugResources-29 D:\Spring 25-26\LAB\ECommerceApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.ecommerceapp-packageDebugResources-30 D:\Spring 25-26\LAB\ECommerceApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.ecommerceapp-debug-31 D:\Spring 25-26\LAB\ECommerceApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.ecommerceapp-debug-32 D:\Spring 25-26\LAB\ECommerceApp\app\src\debug\res
+com.example.ecommerceapp-main-33 D:\Spring 25-26\LAB\ECommerceApp\app\src\main\res

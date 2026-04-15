@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.databinding:viewbinding:8.7.3] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\49d41205ad89770db1fb5bb1d5e31cf6\workspace\transformed\viewbinding-8.7.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b2feed2e05efa92231439ff4e246e7d6\workspace\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\430aa54e7f405c55a7a25209f6004057\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\76ca1c2f16eba8b44f420bb1dcfccb57\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7123bc9450c9172074d0e743c5a3c2e2\workspace\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\a286fba40abe0c6a21aaaf89d5f88dc0\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5a95c184ec1cbfc3783fc6ca1308819e\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\6ee255ca0b66751dcffae11321ec91ef\workspace\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\80a9390e6f0dedd53594c905b9fa1257\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\4b801e5c447bbd4f1d885b88dc0c0f64\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\cb9b9e584bdd95177be169f46777e9ef\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\07e2a5b796b001e9b8fceb60b1a935ef\workspace\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\8d86639864a58a81b39dc4f67be13f3d\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7d6678584bfb261b7bf9e09cbca94a5f\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\530b6350a40ab3d5d6453e68e3079ef6\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0bc2ab0349e20ecd370c7b0953705589\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\764bd935bfece4901633995eceb00873\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\45fb124cbd06dd6ef12eff8c41cfc805\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e83a001bb50b37d57a403657634cd4d6\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\81a4ce0428e7afe5366493e37824eaaf\workspace\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c43c3aed1c6dd6ac0bb4315b73ad0ec9\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\8e99eb78fbeed5e0c90d11681361383b\workspace\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\f2857d54c033bb68a0f9edf8254b4481\workspace\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\03974c5431aaabe30a028e67a2cd5c62\workspace\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\73a37a8435815151cc2a0e05a19a5a1b\workspace\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5505ead5a91699b30cf58f156409909b\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\330ccba945e35663e4137b558fdc1757\workspace\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\946f45c226424b301b6ae85b8d5d73f8\workspace\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7885d878ba6f4b857ba1db7f65271bf3\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\25a3b9750771ff52c76af199cf8faaf8\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0c201ff1d2a9c5bc10e244e1669077ea\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\59fd9626152adf4041d8413c2e0474a0\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\4808f936189635a14910ec105f6e8e90\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b44526f9bd84edf7e705d290bfa66295\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\d1b1f5a5b05019d1f7a9a3fb7adabdeb\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\feee177afe1e95d56df3c80922c1f5e1\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c529d61e20024a053cb747e2fdfa61e9\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c69c8b172ec59e39570302a4e0ed9935\workspace\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:5:5-27:19
+INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b2feed2e05efa92231439ff4e246e7d6\workspace\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b2feed2e05efa92231439ff4e246e7d6\workspace\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\430aa54e7f405c55a7a25209f6004057\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\430aa54e7f405c55a7a25209f6004057\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0c201ff1d2a9c5bc10e244e1669077ea\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0c201ff1d2a9c5bc10e244e1669077ea\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b44526f9bd84edf7e705d290bfa66295\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b44526f9bd84edf7e705d290bfa66295\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:13:9-50
+	android:dataExtractionRules
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.ecommerceapp.MainActivity
+ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:exported
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.ecommerceapp.CartActivity
+ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:22:9-26:58
+	android:parentActivityName
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:26:13-55
+	android:label
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:25:13-33
+	android:exported
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml:23:13-41
+uses-sdk
+INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:viewbinding:8.7.3] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\49d41205ad89770db1fb5bb1d5e31cf6\workspace\transformed\viewbinding-8.7.3\AndroidManifest.xml:5:5-44
+MERGED from [com.android.databinding:viewbinding:8.7.3] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\49d41205ad89770db1fb5bb1d5e31cf6\workspace\transformed\viewbinding-8.7.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b2feed2e05efa92231439ff4e246e7d6\workspace\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b2feed2e05efa92231439ff4e246e7d6\workspace\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\430aa54e7f405c55a7a25209f6004057\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\430aa54e7f405c55a7a25209f6004057\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\76ca1c2f16eba8b44f420bb1dcfccb57\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\76ca1c2f16eba8b44f420bb1dcfccb57\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7123bc9450c9172074d0e743c5a3c2e2\workspace\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7123bc9450c9172074d0e743c5a3c2e2\workspace\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\a286fba40abe0c6a21aaaf89d5f88dc0\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\a286fba40abe0c6a21aaaf89d5f88dc0\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5a95c184ec1cbfc3783fc6ca1308819e\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5a95c184ec1cbfc3783fc6ca1308819e\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\6ee255ca0b66751dcffae11321ec91ef\workspace\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\6ee255ca0b66751dcffae11321ec91ef\workspace\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\80a9390e6f0dedd53594c905b9fa1257\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\80a9390e6f0dedd53594c905b9fa1257\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\4b801e5c447bbd4f1d885b88dc0c0f64\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\4b801e5c447bbd4f1d885b88dc0c0f64\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\cb9b9e584bdd95177be169f46777e9ef\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\cb9b9e584bdd95177be169f46777e9ef\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\07e2a5b796b001e9b8fceb60b1a935ef\workspace\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\07e2a5b796b001e9b8fceb60b1a935ef\workspace\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\8d86639864a58a81b39dc4f67be13f3d\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\8d86639864a58a81b39dc4f67be13f3d\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7d6678584bfb261b7bf9e09cbca94a5f\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7d6678584bfb261b7bf9e09cbca94a5f\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\530b6350a40ab3d5d6453e68e3079ef6\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\530b6350a40ab3d5d6453e68e3079ef6\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0bc2ab0349e20ecd370c7b0953705589\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0bc2ab0349e20ecd370c7b0953705589\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\764bd935bfece4901633995eceb00873\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\764bd935bfece4901633995eceb00873\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\45fb124cbd06dd6ef12eff8c41cfc805\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\45fb124cbd06dd6ef12eff8c41cfc805\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e83a001bb50b37d57a403657634cd4d6\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e83a001bb50b37d57a403657634cd4d6\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\81a4ce0428e7afe5366493e37824eaaf\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\81a4ce0428e7afe5366493e37824eaaf\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c43c3aed1c6dd6ac0bb4315b73ad0ec9\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c43c3aed1c6dd6ac0bb4315b73ad0ec9\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\8e99eb78fbeed5e0c90d11681361383b\workspace\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\8e99eb78fbeed5e0c90d11681361383b\workspace\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\f2857d54c033bb68a0f9edf8254b4481\workspace\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\f2857d54c033bb68a0f9edf8254b4481\workspace\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\03974c5431aaabe30a028e67a2cd5c62\workspace\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\03974c5431aaabe30a028e67a2cd5c62\workspace\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\73a37a8435815151cc2a0e05a19a5a1b\workspace\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\73a37a8435815151cc2a0e05a19a5a1b\workspace\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5505ead5a91699b30cf58f156409909b\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5505ead5a91699b30cf58f156409909b\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\330ccba945e35663e4137b558fdc1757\workspace\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\330ccba945e35663e4137b558fdc1757\workspace\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\946f45c226424b301b6ae85b8d5d73f8\workspace\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\946f45c226424b301b6ae85b8d5d73f8\workspace\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7885d878ba6f4b857ba1db7f65271bf3\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7885d878ba6f4b857ba1db7f65271bf3\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\25a3b9750771ff52c76af199cf8faaf8\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\25a3b9750771ff52c76af199cf8faaf8\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0c201ff1d2a9c5bc10e244e1669077ea\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0c201ff1d2a9c5bc10e244e1669077ea\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\59fd9626152adf4041d8413c2e0474a0\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\59fd9626152adf4041d8413c2e0474a0\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\4808f936189635a14910ec105f6e8e90\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\4808f936189635a14910ec105f6e8e90\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b44526f9bd84edf7e705d290bfa66295\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\b44526f9bd84edf7e705d290bfa66295\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\d1b1f5a5b05019d1f7a9a3fb7adabdeb\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\d1b1f5a5b05019d1f7a9a3fb7adabdeb\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\feee177afe1e95d56df3c80922c1f5e1\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\feee177afe1e95d56df3c80922c1f5e1\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c529d61e20024a053cb747e2fdfa61e9\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c529d61e20024a053cb747e2fdfa61e9\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c69c8b172ec59e39570302a4e0ed9935\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\c69c8b172ec59e39570302a4e0ed9935\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Spring 25-26\LAB\ECommerceApp\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0c201ff1d2a9c5bc10e244e1669077ea\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\0c201ff1d2a9c5bc10e244e1669077ea\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\7fec1e76f0a8656b357c545431f16146\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.ecommerceapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.ecommerceapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\3f1a3b45657f85d15f264659836300ee\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\5fadb53f2f14d655629ddeacadacb085\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ROWTECH\.gradle\caches\9.3.1\transforms\e091c7966e83eadd8cbdd158eace3a36\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

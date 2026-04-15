@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#1A237E</color>
+    <color name="header_bg">#303F9F</color>
+    <color name="pass_green_bg">#C8E6C9</color>
+    <color name="fail_red_bg">#FFCDD2</color>
+    <color name="row_even">#F5F5F5</color>
+    <color name="row_odd">#FFFFFF</color>
+    <color name="accent">#FF4081</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>

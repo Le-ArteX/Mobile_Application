@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-30:/layout/activity_cart.xml",
+        "source": "com.example.ecommerceapp-main-33:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.ecommerceapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-30:/layout/item_skeleton.xml",
+        "source": "com.example.ecommerceapp-main-33:/layout/item_skeleton.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-30:/layout/item_product_list.xml",
+        "source": "com.example.ecommerceapp-main-33:/layout/item_product_list.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-30:/layout/layout_cart_badge.xml",
+        "source": "com.example.ecommerceapp-main-33:/layout/layout_cart_badge.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-30:/layout/item_product_grid.xml",
+        "source": "com.example.ecommerceapp-main-33:/layout/item_product_grid.xml"
+    }
+]

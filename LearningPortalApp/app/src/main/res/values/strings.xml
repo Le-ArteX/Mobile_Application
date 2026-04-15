@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LearningPortalApp</string>
+    <string name="back_icon">◀</string>
+    <string name="forward_icon">▶</string>
+    <string name="refresh_icon">🔄</string>
+    <string name="home_icon">🏠</string>
+    <string name="hint_url">Enter URL</string>
+    <string name="btn_go">Go</string>
+    <string name="shortcut_google">Google</string>
+    <string name="shortcut_youtube">YouTube</string>
+    <string name="shortcut_wikipedia">Wikipedia</string>
+    <string name="shortcut_khan">Khan Academy</string>
+    <string name="shortcut_university">University</string>
+    <string name="no_history">No more history</string>
+</resources>

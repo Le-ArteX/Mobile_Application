@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Photo Gallery App</string>
+    <string name="photo_description">Photo image</string>
+    <string name="selection_count">%1$d selected</string>
+    <string name="all">All</string>
+    <string name="nature">Nature</string>
+    <string name="city">City</string>
+    <string name="animals">Animals</string>
+    <string name="food">Food</string>
+    <string name="travel">Travel</string>
+    <string name="add_photo">Add photo</string>
+    <string name="photos_deleted">%1$d photos deleted</string>
+</resources>
