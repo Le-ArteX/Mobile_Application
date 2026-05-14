@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddCourseActivity"
+    android:padding="16dp">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Course Name (Required)"
+                android:inputType="textPersonName"
+                android:layout_marginBottom="12dp"/>
+            <EditText android:id="@+id/etCode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Course Code e.g. CSE301 (Required)" android:inputType="text" android:layout_marginBottom="12dp"/>
+            <EditText android:id="@+id/etInstructor"
+                android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Instructor Name (Required)" android:inputType="textPersonName" android:layout_marginBottom="12dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="Credit Hours" android:layout_marginBottom="4dp"/>
+            <Spinner android:id="@+id/spinnerCredits"
+                android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginBottom="12dp"/>
+
+            <EditText android:id="@+id/etSchedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Schedule (e.g. Sun-Tue 10:00 AM)"
+                android:inputType="text"
+                android:layout_marginBottom="12dp"/>
+            <EditText android:id="@+id/etRoom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Room (e.g. Room 301, Building B)" android:inputType="text" android:layout_marginBottom="12dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Semester"
+                android:layout_marginBottom="4dp"/>
+            <Spinner android:id="@+id/spinnerSemester"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginBottom="24dp"/>
+
+            <ProgressBar android:id="@+id/progressBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:visibility="gone"
+                android:layout_marginBottom="12dp"/>
+
+            <Button android:id="@+id/btnSave"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Save Course"
+                android:layout_marginBottom="8dp"/>
+
+            <Button android:id="@+id/btnDelete"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Delete Course"
+                android:backgroundTint="@android:color/holo_red_dark"
+                android:visibility="gone" android:layout_marginBottom="8dp"/>
+
+            <Button android:id="@+id/btnCancel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cancel"
+                style="?android:attr/borderlessButtonStyle"/>
+
+        </LinearLayout>
+
+</ScrollView>
